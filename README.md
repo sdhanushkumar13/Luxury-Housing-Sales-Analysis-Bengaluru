@@ -39,9 +39,9 @@ LIMIT 10;
 Data was connected from PostgreSQL into Power BI to create an interactive 2-page dashboard.
 
 ## Tech Stack
-TL & Cleaning	 - Python (pandas, numpy, sqlalchemy, psycopg2)
-Database	- PostgreSQL (pgAdmin 4)
-Visualization	- Power BI
+TL & Cleaning	 - Python (pandas, numpy, sqlalchemy, psycopg2)\n
+Database	- PostgreSQL (pgAdmin 4)\n
+Visualization	- Power BI\n
 Environment	- Jupyter Notebook, DAX, SQL
 
 ## Results & Learnings
