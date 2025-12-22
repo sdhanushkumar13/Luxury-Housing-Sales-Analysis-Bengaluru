@@ -70,3 +70,10 @@ Built a complete data pipeline: raw → cleaned → relational → dashboard.
 Derived quantitative insights on luxury housing demand and builder performance.
 
 Developed skills in ETL, SQL integration, and Power BI visualization.
+
+## AUTHOR
+DHANUSHKUMAR S
+
+## GITHUB-ID
+https://github.com/sdhanushkumar13
+
